@@ -17,6 +17,7 @@
 资产增长模型的公式如下：
 
 G = C * Kr * Ks(L)^T * S^P * E^T
+![image](https://github.com/jellzone/AssetGrowthModel/assets/5356500/e1bc5f76-35b6-4550-a9d4-469b2c2275b3)
 
 
 其中，`G` 是预期的资产增长，`T` 是时间（以年为单位）。
